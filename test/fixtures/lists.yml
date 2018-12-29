@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: お買い物リスト
+  due: 2018-12-29 19:46:17
+
+two:
+  title: レポート課題
+  due: 2018-12-29 19:46:17
